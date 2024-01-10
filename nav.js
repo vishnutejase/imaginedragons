@@ -8,16 +8,16 @@ class Header extends HTMLElement {
           </a>
         </h1>
         <ul>
-          <li><a href="https://www.instagram.com/imaginedragons/" target=”_blank”>
+          <li><a href="https://www.instagram.com/imaginedragons/" target="_blank">
             <img src="assets/navbar/instagram.svg" alt="Instagram">
           </a></li>
-          <li><a href="https://twitter.com/Imaginedragons" target=”_blank”>
+          <li><a href="https://twitter.com/Imaginedragons" target="_blank">
             <img src="assets/navbar/twitter.svg" alt="Twitter">
           </a></li>
-          <li><a href="https://www.youtube.com/@ImagineDragons" target=”_blank”>
+          <li><a href="https://www.youtube.com/@ImagineDragons" target="_blank">
             <img src="assets/navbar/youtube.svg" alt="Youtube">
           </a></li>
-          <li><a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q" target=”_blank”>
+          <li><a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q" target="_blank">
             <img src="assets/navbar/spotify.png" alt="Spotify">
           </a></li>
         </ul>
